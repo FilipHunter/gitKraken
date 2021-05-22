@@ -3,3 +3,4 @@ Zmiana w gałęzi  master.
 Zmiana na gałęzi g001.
 Pierwsza zmiana na gałęzi master.
 Druga zmiana na gałęzi master.
+Pierwsza zmiana na gałęzi g002.
