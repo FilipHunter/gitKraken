@@ -2,3 +2,4 @@ Pieerwszy wpis.
 Zmiana w gałęzi  master.
 Zmiana na gałęzi g001.
 Pierwsza zmiana na gałęzi master.
+Druga zmiana na gałęzi master.
